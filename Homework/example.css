@@ -1,1 +1,36 @@
-img
+/* .this-heading{
+    display: inline-block;
+    color: blueviolet;
+    background-color: antiquewhite;
+} */
+
+img{
+    height:45px;
+}
+
+h2{
+    display: inline-block;
+    color: greenyellow;
+    background-color: gray;
+}
+a{
+    display: inline-block;
+    color: greenyellow;
+}
+header{display: inline-block;
+background-color: cadetblue;}
+.this-seperate{display: inline-block;
+color: greenyellow;}
+direct-company{color: greenyellow;}
+main{background-color: blueviolet;}
+this-apart{size: 500px;
+height: 500%;
+width: 500px;}
+
+footer{
+    background-color: chocolate;
+}
+
+none-of-them{display: inline-block;
+    text-align: right;
+}
